@@ -1,0 +1,5 @@
+.docker-cache/
+.env
+*.jks
+*.keystore
+key.properties
